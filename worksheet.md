@@ -9,9 +9,9 @@ Respond to my comments by making new commits to the same branch.
 
 ## Review
 1. In your own words, explain what an ArrayList is. 
-
+    an array that can change in size
 2. In your own words, explain what a LinkedList is. How is it different from an ArrayList?
-
+    a linked list is a series of modules where the one module points to the next module
 ## Exploration
 
 1. In this question, you will recreate the Java code to build an ArrayList. The intention is that, after watching the live-coding videos, you should be able to *independently* think through how an ArrayList works, and to write the code from scratch. I encourage you to do this section of the worksheet *without* referring to the videos.
